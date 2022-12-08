@@ -1,0 +1,86 @@
+body{
+    background-color: #f5eee5;
+}
+
+h1{
+    font-family: 'Fraunces', serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: justify;
+    width: 75%;
+}
+
+h2{
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: gray;
+    float: left;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+img{
+    width: 325px;
+    height: 425px;
+    display: block;
+    border-radius: 15px 0px 0px 15px;
+}
+
+button{
+    text-align: center;
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+    width: 250px;
+    height: 60px;
+    border-radius: 15px;
+    border: 0px;
+    font-size: 20px;
+}
+i{
+    margin-right: 5px;
+    font-size: 20px;
+}
+#box1{
+    width: 325px;
+    height: 425px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    float: left;
+    background-color: white;
+    border-radius: 0px 15px 15px 0px;
+}
+
+#description{
+    color: grey;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    width: 75%;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+#box2{
+    margin-top: 100px;
+    margin-left: 375px;
+    float: left;
+    padding-bottom: 0px
+}
+
+#prices #priceN{
+    color: grey;
+    font-size: 15px;
+    text-decoration: line-through;
+}
+
+#prices #priceD{
+    font-family: 'Fraunces', serif;
+    font-size: 35px;
+    color: hsl(158, 36%, 37%);
+}
+
+
