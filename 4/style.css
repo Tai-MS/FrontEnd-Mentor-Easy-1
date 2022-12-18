@@ -1,0 +1,91 @@
+body{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    background-color: hsl(204, 43%, 93%);
+    width: 1440px;
+}
+
+.container{
+    width: 700px;
+    height: 400px;
+    margin: 300px 720px
+}
+
+/*BLOQUE INFO*/
+#info{
+    background-color: white;
+    width: 700px;
+    height: 250px;
+    padding: 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#info h1, #info h3, #info p{
+    margin-left: 50px;
+}
+
+h1{
+    color: hsl(179, 62%, 43%);
+    padding-top: 30px;
+}
+
+h3{
+   color: hsl(71, 73%, 54%); 
+}
+
+p{
+    color: hsl(218, 22%, 67%);
+}
+
+/*BLOQUE SUB*/
+button{
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+    border: 0px;
+    padding: 15px 100px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+#sub{
+    background-color: hsl(179, 62%, 43%);
+    width: 350px;
+    height: 250px;
+    padding: 0px;
+    float: left;
+    border-radius: 0px 0px 0px 10px;
+}
+
+#sub h2, #sub p{
+    margin-left: 50px;
+    color: white;
+}
+
+#price{
+    font-size: 30px;
+}
+
+#month{
+    color: hsl(204, 43%, 93%);
+}
+
+/*BLOQUE US*/
+#us{
+    background-color: hsl(179, 50%, 68%);
+    width: 350px;
+    height: 250px;
+    padding: 0px;
+    float: left;
+    border-radius: 0px 0px 10px 0px;
+}
+
+#us h2, #us p{
+    margin-left: 50px;
+    color: white;
+}
+#us p{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+
