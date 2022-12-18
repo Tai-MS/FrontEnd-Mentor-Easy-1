@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 1440px;
+}
+
+header{
+    color: hsl(229, 6%, 66%);
+    margin-left: 720px;
+}
+
+header h1{
+    font-weight: 200;
+}
+
+header span{
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+
+p{
+    color: hsl(229, 6%, 66%);
+}
+
+.text{
+    margin-left: 35px;
+}
+
+/*BLOQUE BUILDER*/
+#builder{
+    border-top: 5px solid hsl(0, 78%, 62%);
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    margin-left: 720px;
+    margin-bottom: -140px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px hsl(229, 6%, 66%);
+}
+
+#teamb{
+    margin-top: 65px;
+    margin-left: 265px;
+}
+
+/*BLOQUE CALCULATOR*/
+#calculator{
+    border-top: 5px solid hsl(212, 86%, 64%);
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    margin-left: 1150px;
+    padding: 0px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px hsl(229, 6%, 66%);
+}
+
+#calcu{
+    margin-top: 65px;
+    margin-left: 265px;
+}
+
+/*BLOQUE KARMA*/
+#karma{
+    border-top: 5px solid hsl(34, 97%, 64%);
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    margin-left: 720px;
+    margin-top: -140px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px hsl(229, 6%, 66%);
+}
+
+#sup{
+    margin-top: 65px;
+    margin-left: 265px;
+}
+/*BLOQUE SUPERVISOR*/
+#supervisor{
+    border-top: 5px solid hsl(180, 62%, 55%);
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    margin-left: 290px;
+    margin-top: -300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px hsl(229, 6%, 66%);
+}
+
+#kar{
+    margin-top: 65px;
+    margin-left: 265px;
+}
